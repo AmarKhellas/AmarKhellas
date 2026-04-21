@@ -8,34 +8,25 @@
 
 ## 🧠 About Me
 
-I specialize in **observability, system reliability, and software security**, with a strong background in full-stack development and data analytics.
+I specialize in **Observability, System Reliability, and Software Security**, with a strong background in full-stack development and data analytics.
 
 At **ExxonMobil**, I:
-- 🔍 Apply Strategic decisions on **Enterprise Observability**
-- 📊 Transform telemetry data into **actionable insights**
-- ⚙️ Build scalable monitoring solutions using **Datadog and ThousandEyes**
+- 🔍 Enable strategic decisions on **Enterprise Observability**
+- 📊 Transform telemetry data into **Actionable Insights**
+- ⚙️ Build scalable monitoring solutions using observability platform such as **Datadog and ThousandEyes**
 - 🤖 Automate workflows using **Python, PowerShell, and Ansible**
-- 🛡️ Improve **system resilience, performance, and incident response**
+- 🛡️ Improve **System Resilience, Performance, and Incident Response**
 
 ---
 
 ## ⚡ Core Expertise
 
-- 📈 Observability (Metrics, Logs, Traces, Synthetics, Digital User Experience, Real User Monitoring)
+- 📈 Observability (Metrics, Logs, Traces, Synthetics, Digital User Experience, and Real User Monitoring)
 - ☁️ Cloud and Containers (Azure, OpenShift, Docker, Kubernetes)
 - 🔐 Application Security and Secure Software Development Life Cycle
 - 🌐 Full-Stack Development
 - 📊 Data Analytics and Visualization
 - 🤖 Automation and Scripting (Python, PowerShell, Ansible)
-
----
-
-## ⚡ What I Care About
-
-- Observability-driven engineering  
-- Reducing MTTR & improving reliability  
-- Secure and scalable systems  
-- Automation over manual work
 
 ---
 
@@ -48,7 +39,7 @@ JavaScript • TypeScript • Python • PowerShell
 React • Angular • HTML • CSS • Tailwind
 
 ### 🧩 Backend
-Node.js • Express • Flask • Django
+Node.js • Express • Flask • FastAPI • Django
 
 ### 🗄️ Databases
 PostgreSQL • MySQL • SQLite
