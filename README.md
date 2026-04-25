@@ -5,12 +5,11 @@
 | _Designing scalable observability systems, improving reliability, and turning data into actionable insights._ |
 |<p align="center"><img src="https://komarev.com/ghpvc/?username=amarkhellas&label=Profile%20views&color=0e75b6&style=flat" /></p>|
 
-
 ## About Me
 
-I specialize in **Observability, System Reliability, and Software Security**, with a strong background in full-stack development and data analytics.
+I work across **Observability**, **System Reliability**, **Data Analytics**, **Full-Stack Development**, and **Software Security** to build and improve modern systems.
 
-At **ExxonMobil**, I:
+Right now, I am currently working on:
 
 - Enable strategic decisions on **Enterprise Observability**
 - Transform telemetry data into **Actionable Insights**
@@ -66,7 +65,6 @@ Git • VS Code • Postman • Datadog • ThousandEyes
 - [LinkedIn](https://linkedin.com/in/amarkhellas)
 - [Facebook](https://facebook.com/amarkhellas)
 - [X (Twitter)](https://x.com/amarkhellas)
-- amar.khellas@gmail.com
 
 ---
 
