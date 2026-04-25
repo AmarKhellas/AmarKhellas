@@ -10,7 +10,7 @@
 
 I specialize in **Observability, System Reliability, and Software Security**, with a strong background in full-stack development and data analytics.
 
-At **ExxonMobil**, I:]
+At **ExxonMobil**, I:
 
 - Enable strategic decisions on **Enterprise Observability**
 - Transform telemetry data into **Actionable Insights**
